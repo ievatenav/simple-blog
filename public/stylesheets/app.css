@@ -1,0 +1,26 @@
+.icon {
+     font-size: 2em;
+ }
+ 
+.container.main {
+    margin-top: 5em;
+    margin-bottom: 2em;
+}
+
+.huge.header {
+    margin: 0;
+    margin-bottom: 1em;
+}
+
+.postTitle {
+    margin-bottom: 0!important;    
+}
+
+#delete {
+    display: inline;
+}
+
+.postContent {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
