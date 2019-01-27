@@ -6,7 +6,6 @@ const methodOverride = require("method-override");
 const expressSanitizer = require("express-sanitizer");
 
 
-
 // APP CONFIG
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(methodOverride("_method"));
